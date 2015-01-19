@@ -1,2 +1,2 @@
 # PyQt5 Test
-Simple example
+Simple example for Habrahabr
