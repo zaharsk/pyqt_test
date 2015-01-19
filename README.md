@@ -1,2 +1,2 @@
-# qsERP
-None
+# PyQt5 Test
+Simple example
